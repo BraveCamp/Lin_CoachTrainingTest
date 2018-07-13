@@ -6,7 +6,7 @@ that rotates images like a carousel/merry-go-round rotates*/
     margin: 0 auto;
 }
 
-body {background-color: #800000; }
+body {background-color: #800001; }
 
 /* This removes the gradient image to the left and right sides of the
 carousel. Put comments around the 'background-image:none' part to see 
